@@ -1,2 +1,2 @@
 # rl-stock-market
-Medelo de RL para analisis de acciones
+Modelo de RL para analisis de acciones
